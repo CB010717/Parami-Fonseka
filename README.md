@@ -21,21 +21,12 @@ My profile at a glance...
 - Contributing to open-source projects.
 
 ---
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=CB010717&show_icons=true&include_all_commits=true&hide_rank=true&theme=tokyonight" />
+
 
 <!-- Top languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CB010717&layout=compact&theme=tokyonight" />
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=CB010717&theme=tokyonight" />
 
-<!-- Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CB010717/CB010717/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CB010717/CB010717/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/CB010717/CB010717/output/github-snake.svg" />
-</picture>
 
 ### 📫 How to reach me:
 - **LinkedIn:** [linkedin.com/in/parami-fonseka](https://linkedin.com/in/parami-fonseka)
