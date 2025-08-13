@@ -38,9 +38,8 @@ My profile at a glance...
 > Everything starts somewhere, and never let anyone get into your head!
 
 
-## 🐍 Snake Game
 
-![Snake Game](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+https://github.com/lowlighter/github-contributions-snake/raw/output/github-contribution-grid-snake.gif
 
 Feel free to check out my projects and connect!
 
