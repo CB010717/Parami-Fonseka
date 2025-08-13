@@ -37,7 +37,7 @@ My profile at a glance...
 ### 🧩 Fun Fact:
 > Everything starts somewhere, and never let anyone get into your head!
 
-
+![github contribution grid snake](https://github.com/CB010717/CB010717/raw/output/github-contribution-grid-snake.gif)
 
 
 
