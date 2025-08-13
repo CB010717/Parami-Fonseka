@@ -39,8 +39,9 @@ My profile at a glance...
 
 
 
-https://github.com/lowlighter/github-contributions-snake/raw/output/github-contribution-grid-snake.gif
+## 🐍 My GitHub Commit Snake
 
+![github contribution grid snake](https://github.com/lowlighter/github-contributions-snake/raw/output/github-contribution-grid-snake.gif)
 Feel free to check out my projects and connect!
 
 ---
