@@ -21,45 +21,21 @@ My profile at a glance...
 - Contributing to open-source projects.
 
 ---
+<!-- Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=CB010717&show_icons=true&include_all_commits=true&hide_rank=true&theme=tokyonight" />
 
-<h3>📊 GitHub Stats</h3>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=paramifonseka&show_icons=true&include_all_commits=true&hide_rank=true&theme=tokyonight"
-    alt="Parami's GitHub stats"
-  />
-</p>
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CB010717&layout=compact&theme=tokyonight" />
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramifonseka&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=CB010717&theme=tokyonight" />
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=paramifonseka&theme=tokyonight"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-<h3>🐍 Contribution Snake</h3>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paramifonseka/paramifonseka/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paramifonseka/paramifonseka/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/paramifonseka/paramifonseka/output/github-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img alt="GitHub contribution snake (ocean gif)" src="https://raw.githubusercontent.com/paramifonseka/paramifonseka/output/ocean.gif" />
-</p>
-
----
+<!-- Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CB010717/CB010717/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CB010717/CB010717/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/CB010717/CB010717/output/github-snake.svg" />
+</picture>
 
 ### 📫 How to reach me:
 - **LinkedIn:** [linkedin.com/in/parami-fonseka](https://linkedin.com/in/parami-fonseka)
