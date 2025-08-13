@@ -20,7 +20,46 @@ My profile at a glance...
 - Exploring more on cloud technologies and DevOps practices.
 - Contributing to open-source projects.
 
+---
 
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=paramifonseka&show_icons=true&include_all_commits=true&hide_rank=true&theme=tokyonight"
+    alt="Parami's GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramifonseka&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=paramifonseka&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+<h3>🐍 Contribution Snake</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paramifonseka/paramifonseka/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paramifonseka/paramifonseka/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/paramifonseka/paramifonseka/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img alt="GitHub contribution snake (ocean gif)" src="https://raw.githubusercontent.com/paramifonseka/paramifonseka/output/ocean.gif" />
+</p>
+
+---
 
 ### 📫 How to reach me:
 - **LinkedIn:** [linkedin.com/in/parami-fonseka](https://linkedin.com/in/parami-fonseka)
