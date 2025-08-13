@@ -37,3 +37,12 @@ My profile at a glance...
 ### 🧩 Fun Fact:
 > Everything starts somewhere, and never let anyone get into your head!
 
+
+## 🐍 Snake Game
+
+![Snake Game](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+Feel free to check out my projects and connect!
+
+---
+<!-- Add more sections about yourself or your projects below -->
